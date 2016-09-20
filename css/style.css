@@ -1,0 +1,159 @@
+/*font-family: 'Gochi Hand', cursive;*/
+/*font-family: 'Bitter', serif;*/
+
+*{
+	border:0;
+	margin:0;
+	padding:0;
+}
+
+body{
+	background: #006680;
+}
+
+section#contenedor{
+	background: #006680;
+	height: 1000px;
+	width: 780px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+header{
+	background: #006680;
+	height: 150px;
+	width: 750px;
+	padding: 5px 15px;
+}
+
+header h1{
+	height: 100px;
+	width: 250px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+header #titulo{
+	font-family: 'Bitter', serif;
+	background: rgba(255,255,255, 0,5)
+	height: 100px;
+	width: 450px;
+	font-size: 45px;
+	text-align:center;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+section#banner{
+	background: #FF5900;
+	height: 300px;
+	width: 780px;
+	text-align:center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+section#menu1{
+	background: #B3B3B3;
+	height: 200px;
+	width: 740px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+section#menu2{
+	background: #B3B3B3;
+	height: 200px;
+	width: 740px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+section#info{
+	font-family: 'Bitter', serif;
+	background: #333333;
+	height: 200px;
+	width: 740px;
+	color: white;
+	font-size: 18px;
+	text-align: justify;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+footer{
+	background: #000000;
+	height: 35px;
+	width: 780px;
+	padding-top: 15;
+}
+
+footer p{
+	font-family: arial;
+	color: white;
+	font-size: 12px;
+	text-align:center;
+}
+
+#menu1 #objeto1{
+	font-family: 'Gochi Hand', cursive;
+	font-size: 45px;
+	text-align:center;
+	background: #F2B80D;
+	height: 200px;
+	width: 240px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#menu1 #objeto2{
+	font-family: 'Gochi Hand', cursive;
+	font-size: 45px;
+	text-align:center;
+	background: #F2B80D;
+	height: 200px;
+	width: 240px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#menu1 #objeto3{
+	font-family: 'Gochi Hand', cursive;
+	font-size: 45px;
+	text-align:center;
+	background: #F2B80D;
+	height: 200px;
+	width: 240px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#menu2 #objeto4{
+	font-family: 'Gochi Hand', cursive;
+	font-size: 45px;
+	text-align:center;
+	background: #F2B80D;
+	height: 200px;
+	width: 260px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#menu2 #objeto5{
+	font-family: 'Gochi Hand', cursive;
+	font-size: 45px;
+	text-align:center;
+	background: #F2B80D;
+	height: 200px;
+	width: 260px;
+	display: inline-block;
+	vertical-align: top;
+}
